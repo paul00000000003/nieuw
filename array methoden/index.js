@@ -43,3 +43,4 @@ var filtered = numbers.filter(n => n > 4);
 console.log(filtered);
 
 // reduce als methode opzoeken. Kan er voor dienen om elementen makkelijk op te tellen
+// comment
