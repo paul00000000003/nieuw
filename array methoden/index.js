@@ -44,3 +44,4 @@ console.log(filtered);
 
 // reduce als methode opzoeken. Kan er voor dienen om elementen makkelijk op te tellen
 // comment
+// comment 2
